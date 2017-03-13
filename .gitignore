@@ -1,0 +1,3 @@
+# node_modules配下は無視
+node_modules/
+

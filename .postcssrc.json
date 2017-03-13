@@ -1,0 +1,11 @@
+{
+	"use": [
+		"postcss-import",
+		"postcss-cssnext"
+	],
+	"input": "modules/src/style/style.css",
+	"output": "modules/dist/css/style.css",
+	"autoprefixer": {
+		"browsers": "last 2 versions"
+	}
+}
